@@ -1,6 +1,0 @@
-{
-    "watch": ["index.js", "routes/", "models/"],
-    "ignore": ["node_modules/**", "*.log"],
-    "ext": "js,json"
-  }
-  
